@@ -1,4 +1,4 @@
-# React Beanie Babies List/Detail App
+# Abriel's React Beanie Babies List/Detail App
 
 **Visit the live demo here:** [Live Demo](https://ecstatic-jackson-7ce76f.netlify.app/)
 
