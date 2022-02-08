@@ -6,7 +6,7 @@ export default function BeanieBaby({ beanieBaby }) {
     // it should also render the beanie baby's image and show the beanie baby's name
     // null
     <Link to={`/beanie-babies/${beanieBaby.id}`}>
-      <div className='baby'>
+      <div className='beanie-baby'>
         <p>{beanieBaby.title}</p>
         <img className='beanie-img' src={beanieBaby.image} />
       </div>
